@@ -1,0 +1,2 @@
+//q4 solve famous quote direct print \escape operator use to enter special characters
+console.log("Quaid e Azam once said, \"I do not believe in taking the right decision, I take a decision and make it right.\"");
